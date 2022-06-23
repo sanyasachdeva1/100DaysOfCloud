@@ -4,15 +4,14 @@
 
 ## Introduction
 
-✍️ (Why) Amazon S3 is a program that's built to store, protect, and retrieve data from “buckets” at any time from anywhere on any device. Organizations of any size in any industry can use this service.
+✍️ Why? 
+Amazon S3 is a program that's built to store, protect, and retrieve data from “buckets” at any time from anywhere on any device. Organizations of any size in any industry can use this service.
 
 ## Prerequisite
 
-✍️ (What)
-## S3
-* Organizing, storing and retrieving data in Amazon S3 focuses on two key components: buckets and objects that work together to create the storage system. As AWS      describes it, an S3 environment is a flat structure — a user creates a bucket; the bucket stores objects in the cloud. 
-## CLI (Command Line Interface) 
-* The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
+✍️ What?
+* S3- Organizing, storing and retrieving data in Amazon S3 focuses on two key components: buckets and objects that work together to create the storage system. As AWS      describes it, an S3 environment is a flat structure — a user creates a bucket; the bucket stores objects in the cloud. 
+* CLI (Command Line Interface) - The AWS Command Line Interface (AWS CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
 
 ## Cloud Service Provider
 * Amazon Web Services (AWS)
