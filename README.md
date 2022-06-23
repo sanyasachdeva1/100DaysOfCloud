@@ -3,27 +3,20 @@
 </p>
 
 ## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+1. The challenge: [#100DaysOfCloud.com](https://100DaysOfCloud.com)
+4. Using the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+##✍️ Sanya's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+✍️ A proactive and determined student with coding skills and an interest in Cloud Computing. My skills include- AWS Cloud, Computer Networks, Google Cloud, Linux, SQL, C++, DBMS, Unix, DSA, OS, Team Management and Public Speaking. I am a Member of the AWS Emerging Talent Community wherein I am Learning and currently building a project on cloud computing implementation in real life. My certificates are in Cloud Computing including Microsoft Azure Masterclass with EY Technologies, AWS Academy Graduate from AWS Academy Cloud Foundations, Completed Learn Microsoft Azure Fundamentals Challenge, a participant in Google Cloud Ready Facilitator Program where I completed 30 cloud quests, received 15 skill badges and swags, Google Cloud Fundamentals: Core Infrastructure from Coursera and AWS Cloud Practitioner Essentials from AWS Skill Builder. Currently pursuing Cybersecurity course from Cisco Netacad Academy.
 
-[✍️ Introduce yourself]
+✍️ I started this challenge to get insights about Cloud and to keep following my instincts. 
 
-[✍️ Tell us why you started this challenge]
+✍️ I want to be at a good cloud level wherein I can easily deploy, code and run cloud services the end of the challenge. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- ✍️ My LinkedIn (https://www.linkedin.com/in/sanya-sachdeva/)
+- ✍️ My Instagram (https://www.instagram.com/_just_a_techie_/)
+- ✍️ My Twitter (https://twitter.com/Sanya_Sachdeva_)
 
 ## Stepping out the door
 
