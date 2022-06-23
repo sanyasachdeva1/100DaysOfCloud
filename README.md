@@ -2,11 +2,9 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. The challenge: [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-4. Using the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
+## The Challenge [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 
-##✍️ Sanya's Cloud Journey
+## ✍️ Sanya's Cloud Journey
 
 ✍️ A proactive and determined student with coding skills and an interest in Cloud Computing. My skills include- AWS Cloud, Computer Networks, Google Cloud, Linux, SQL, C++, DBMS, Unix, DSA, OS, Team Management and Public Speaking. I am a Member of the AWS Emerging Talent Community wherein I am Learning and currently building a project on cloud computing implementation in real life. My certificates are in Cloud Computing including Microsoft Azure Masterclass with EY Technologies, AWS Academy Graduate from AWS Academy Cloud Foundations, Completed Learn Microsoft Azure Fundamentals Challenge, a participant in Google Cloud Ready Facilitator Program where I completed 30 cloud quests, received 15 skill badges and swags, Google Cloud Fundamentals: Core Infrastructure from Coursera and AWS Cloud Practitioner Essentials from AWS Skill Builder. Currently pursuing Cybersecurity course from Cisco Netacad Academy.
 
