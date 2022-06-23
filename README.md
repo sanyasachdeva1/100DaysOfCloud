@@ -12,9 +12,9 @@
 
 ✍️ I want to be at a good cloud level wherein I can easily deploy, code and run cloud services the end of the challenge. 
 
-- [✍️ My LinkedIn](https://www.linkedin.com/in/sanya-sachdeva/)
-- [✍️ My Instagram](https://www.instagram.com/_just_a_techie_/)
-- [✍️ My Twitter](https://twitter.com/Sanya_Sachdeva_)
+- [✍️ LinkedIn](https://www.linkedin.com/in/sanya-sachdeva/)
+- [✍️ Instagram](https://www.instagram.com/_just_a_techie_/)
+- [✍️ Twitter](https://twitter.com/Sanya_Sachdeva_)
 
 ## Stepping out the door
 
