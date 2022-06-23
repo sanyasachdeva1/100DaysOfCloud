@@ -1,7 +1,5 @@
 # DEV03-AWS100 —  Install & Configure AWS CLI then create an S3 Bucket
-<a href="url"><img src="https://user-images.githubusercontent.com/69337392/175266255-e6768029-3fe4-46f3-9c18-528cb4febeb7.png" height="48" width="48" ></a>
-
-![How-to-Manage-AWS-S3-Bucket-with-AWS-CLI-new](https://user-images.githubusercontent.com/69337392/175266255-e6768029-3fe4-46f3-9c18-528cb4febeb7.png)
+<a href="url"><img src="https://user-images.githubusercontent.com/69337392/175266255-e6768029-3fe4-46f3-9c18-528cb4febeb7.png" height="500" width="262" ></a>
 
 ## Introduction
 
