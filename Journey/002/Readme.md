@@ -1,5 +1,5 @@
-![maxresdefault](https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg" height="262" width="300" ></p>
 # COM03-AWS100 - Launch a Hello World website on the internet
 
 ## Introduction
@@ -9,9 +9,9 @@
 ## Prerequisite
 
 ✍️ (What) 
-* EC2*  enables on-demand, scalable computing capacity in the AWS cloud. Amazon EC2 instances eliminate the up-front investment for hardware, and there is no need to maintain any rented hardware. It enables you to build and run applications faster. You can use EC2 in AWS to launch as many virtual servers as you need.
+* EC2  enables on-demand, scalable computing capacity in the AWS cloud. Amazon EC2 instances eliminate the up-front investment for hardware, and there is no need to maintain any rented hardware. It enables you to build and run applications faster. You can use EC2 in AWS to launch as many virtual servers as you need.
 
-* AWS security group*  acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic. Both inbound and outbound rules control the flow of traffic to and traffic from your instance, respectively.
+* AWS security group  acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic. Both inbound and outbound rules control the flow of traffic to and traffic from your instance, respectively.
 
 ## Cloud Research
 
@@ -29,7 +29,8 @@
 * Can't connect to Ubuntu instance using EC2 Instance Connect
 * Lost the private key. 
 
-- 🖼️ <a url="https://aws.amazon.com/blogs/compute/automating-security-group-updates-with-aws-lambda/"> </a>
+- 🖼️ <p align="center">
+<img src="https://aws.amazon.com/blogs/compute/automating-security-group-updates-with-aws-lambda"></p>
 
 ## Try yourself
 
