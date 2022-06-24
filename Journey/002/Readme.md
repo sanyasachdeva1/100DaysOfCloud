@@ -17,7 +17,7 @@ The AWS Amplify Console provides a complete workflow for developing, deploying, 
 
 ## Cloud Research
 
-- ✍️ Possible errors could be- 
+✍️ Possible errors could be- 
   1. Connecting to your instance: Connection timed out
   2. Unable to load key.
   3. User key not recognized by server
