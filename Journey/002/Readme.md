@@ -31,7 +31,7 @@ The AWS Amplify Console provides a complete workflow for developing, deploying, 
   11. Can't connect to Ubuntu instance using EC2 Instance Connect
   12. Lost the private key. 
 
-- 🖼️ <p align="left">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/69337392/175496440-39bbc42a-bd5a-4149-8d4f-131655186a37.png"></p>
 
 ## Try yourself
