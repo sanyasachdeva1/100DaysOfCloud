@@ -1,25 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![maxresdefault](https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg)
 
-# New post title here
+# COM03-AWS100 - Launch a Hello World website on the internet
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why) The AWS Amplify Console provides a complete workflow for developing, deploying, and hosting single page web apps or static sites with serverless backends. You can add dynamic functionality to your app with the Amplify Framework, and then deploy it to your end users instantly with the Amplify Console.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ (What) 
+* EC2*  enables on-demand, scalable computing capacity in the AWS cloud. Amazon EC2 instances eliminate the up-front investment for hardware, and there is no need to maintain any rented hardware. It enables you to build and run applications faster. You can use EC2 in AWS to launch as many virtual servers as you need.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+* AWS security group*  acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic. Both inbound and outbound rules control the flow of traffic to and traffic from your instance, respectively.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ Possible errors could be- 
+* Connecting to your instance: Connection timed out
+* Unable to load key ... Expecting: ANY PRIVATE KEY
+* User key not recognized by server
+* Permission denied or connection closed by [instance] port 22
+* Unprotected private key file
+* Private key must begin with "-----BEGIN RSA PRIVATE KEY-----" and end with "-----END RSA PRIVATE KEY-----"
+* Server refused our key or No supported authentication methods available
+* Cannot ping instance
+* Server unexpectedly closed network connection
+* Host key validation failed for EC2 Instance Connect
+* Can't connect to Ubuntu instance using EC2 Instance Connect
+* Lost the private key. 
+
+- 🖼️ <a url="https://aws.amazon.com/blogs/compute/automating-security-group-updates-with-aws-lambda/"> </a>
 
 ## Try yourself
 
