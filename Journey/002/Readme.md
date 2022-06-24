@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg" height="262" width="300" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg" height="262" width="500" ></p>
 # COM03-AWS100 - Launch a Hello World website on the internet
 
 ## Introduction
