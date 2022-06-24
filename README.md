@@ -19,7 +19,7 @@
 ## Stepping out the door
 
 - [✔] ☁️ 1 > [Install & Configure AWS CLI, create a S3 Bucket](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Launch a Hello World website on the internet](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
