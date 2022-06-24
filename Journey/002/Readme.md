@@ -15,6 +15,18 @@ The AWS Amplify Console provides a complete workflow for developing, deploying, 
 
 * AWS security group  acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic. Both inbound and outbound rules control the flow of traffic to and traffic from your instance, respectively.
 
+## Cloud Service Provider
+- Amazon Web Services
+
+## Difficulty
+- Level 100 (Introductory)
+
+## Estimated Time
+- One to Two hours. 
+
+## Project's Author(s)
+[Syed Auther](https://twitter.com/syedauther)
+
 ## Cloud Research
 
 ✍️ Possible errors could be- 
