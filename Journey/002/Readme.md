@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg" height="262" width="500" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/175494432-e66aa076-38ea-4e68-98ea-faa1edec407c.jpg" height="230" width="700" ></p>
 # COM03-AWS100 - Launch a Hello World website on the internet
 
 ## Introduction
@@ -16,9 +16,9 @@
 ## Cloud Research
 
 - ✍️ Possible errors could be- 
-* Connecting to your instance: Connection timed out
-* Unable to load key ... Expecting: ANY PRIVATE KEY
-* User key not recognized by server
+  1. Connecting to your instance: Connection timed out
+  2. Unable to load key ... Expecting: ANY PRIVATE KEY
+  3. User key not recognized by server
 * Permission denied or connection closed by [instance] port 22
 * Unprotected private key file
 * Private key must begin with "-----BEGIN RSA PRIVATE KEY-----" and end with "-----END RSA PRIVATE KEY-----"
@@ -30,7 +30,7 @@
 * Lost the private key. 
 
 - 🖼️ <p align="center">
-<img src="https://aws.amazon.com/blogs/compute/automating-security-group-updates-with-aws-lambda"></p>
+<img src="https://user-images.githubusercontent.com/69337392/175496440-39bbc42a-bd5a-4149-8d4f-131655186a37.png"></p>
 
 ## Try yourself
 
