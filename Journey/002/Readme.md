@@ -37,11 +37,11 @@ The AWS Amplify Console provides a complete workflow for developing, deploying, 
 ## Try yourself
 
 ✍️ Hosting a website using AWS :- 
-Step 1: Gathering the Basics.
-Step 2: Create a S3 Bucket of your website.
-Step 3: Uploading file into your S3 Bucket.
-Step 4: Configure the settings of your S3 Bucket.
-Step 5: Hosting your Website.
+* Step 1: Gathering the Basics.
+* Step 2: Create a S3 Bucket of your website.
+* Step 3: Uploading file into your S3 Bucket.
+* Step 4: Configure the settings of your S3 Bucket.
+* Step 5: Hosting your Website.
 
 ### Important steps:- 
 1. Launch a linux based EC2 instance in any one region of your choice in a public subnet
