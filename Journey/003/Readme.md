@@ -1,6 +1,5 @@
-# BIL02-AWS100 — Create a Cost Budget
-
 <p align="center" >
+# BIL02-AWS100 — Create a Cost Budget
 <img src="https://user-images.githubusercontent.com/80279467/175764909-8044f5c2-3894-4550-920c-2d015b7ab1bb.png" height="300" width="700" ></p>
 
 ## Introduction
@@ -26,7 +25,6 @@ Level 100 (Introductory)
 [Ariela](https://twitter.com/ari_hacks)
 
 ## Objectives
-
 ###  You need to complete the following:
 
 Create a cost budget 
@@ -34,7 +32,8 @@ Create a cost budget
 ###  You need to answer the following: 
 
 In order for IAM users to create budgets in the Billing and Cost Management console what else must these users be allowed to do? 
-## This table summarizes the permissions that allow or deny IAM users access to your billing information and tools. For examples of policies that use these permissions, see AWS Billing policy examples.
+
+- This table summarizes the permissions that allow or deny IAM users access to your billing information and tools. For examples of policies that use these permissions, see AWS Billing policy examples.
 
 ### In addition to the console how else can you create budgets? 
 ## Step 1: Calculate your net income
