@@ -62,4 +62,4 @@ Sign in to the AWS Management Console and open the AWS Cost Management console a
 
 ## References
 
-[Create a cost budget](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-create.html#create-cost-budget
+[Create a cost budget](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-create.html#create-cost-budget)
