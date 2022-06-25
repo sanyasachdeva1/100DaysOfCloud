@@ -1,5 +1,5 @@
-<p align="center" >
 # BIL02-AWS100 — Create a Cost Budget
+<p align="center" >
 <img src="https://user-images.githubusercontent.com/80279467/175764909-8044f5c2-3894-4550-920c-2d015b7ab1bb.png" height="300" width="700" ></p>
 
 ## Introduction
