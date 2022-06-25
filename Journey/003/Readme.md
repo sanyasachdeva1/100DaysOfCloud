@@ -1,7 +1,7 @@
 # BIL02-AWS100 — Create a Cost Budget
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/80279467/175764909-8044f5c2-3894-4550-920c-2d015b7ab1bb.png"  ></p>
+<img src="https://user-images.githubusercontent.com/80279467/175764909-8044f5c2-3894-4550-920c-2d015b7ab1bb.png" height="500" width="500" ></p>
 
 ## Introduction
 
@@ -13,32 +13,27 @@
 ✍️ (What?)
 - There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. These characteristics vary somewhat, depending on the AWS product and pricing model you choose.In most cases,there is no charge for inbound data transfer or for data transfer between other AWS services within the same AWS Region. There are some exceptions,so be sure to verify data transfer rates before you begin to use the AWS service.Outbound data transfer is aggregated across servicesand then charged at the outbound data transfer rate. This charge appears on the monthly statement as AWS Data Transfer Out. AWS Academy Cloud FoundationsModule 2: Cloud Economics and Billing© 2022 Amazon Web Services, Inc. or its affiliates. All rights reserved.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
 ## Cloud Service Provider
-* Amazon Web Services (AWS)
+Amazon Web Services (AWS)
 
 ## Difficulty
 Level 100 (Introductory)
 
 ## Estimated Time
-* 20 - 40 minutes 
+20 - 40 minutes 
   
 ## Project's Author(s)
-* [Ariela](https://twitter.com/ari_hacks)
+[Ariela](https://twitter.com/ari_hacks)
 
 ## Objectives
 
 ###  You need to complete the following:
 
-* Create a cost budget 
+Create a cost budget 
 
 ###  You need to answer the following: 
 
-* In order for IAM users to create budgets in the Billing and Cost Management console what else must these users be allowed to do? 
+In order for IAM users to create budgets in the Billing and Cost Management console what else must these users be allowed to do? 
 ## This table summarizes the permissions that allow or deny IAM users access to your billing information and tools. For examples of policies that use these permissions, see AWS Billing policy examples.
 
 ### * In addition to the console how else can you create budgets? 
@@ -68,4 +63,4 @@ Sign in to the AWS Management Console and open the AWS Cost Management console a
 
 ## References
 
-* [Create a cost budget](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-create.html#create-cost-budget
+[Create a cost budget](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-create.html#create-cost-budget
