@@ -1,17 +1,17 @@
 # BIL02-AWS100 — Create a Cost Budget
 
-<p align="center">
+<p align="center" >
 <img src="https://user-images.githubusercontent.com/80279467/175764909-8044f5c2-3894-4550-920c-2d015b7ab1bb.png"  ></p>
 
 ## Introduction
 
 ✍️ (Why?)
-AWS Budgets allows you to set custom budgets to track your cost and usage from the simplest to the most complex use cases. With AWS Budgets, you can choose to be alerted by email or SNS notification when actual or forecasted cost and usage exceed your budget threshold, or when your actual RI and Savings Plans' utilization or coverage drops below your desired threshold. With AWS Budget Actions, you can also configure specific actions to respond to cost and usage status in your accounts, so that if your cost or usage exceeds or is forecasted to exceed your threshold, actions can be executed automatically or with your approval to reduce unintentional over-spending. 
+- AWS Budgets allows you to set custom budgets to track your cost and usage from the simplest to the most complex use cases. With AWS Budgets, you can choose to be alerted by email or SNS notification when actual or forecasted cost and usage exceed your budget threshold, or when your actual RI and Savings Plans' utilization or coverage drops below your desired threshold. With AWS Budget Actions, you can also configure specific actions to respond to cost and usage status in your accounts, so that if your cost or usage exceeds or is forecasted to exceed your threshold, actions can be executed automatically or with your approval to reduce unintentional over-spending. 
 
 ## Prerequisite
 
 ✍️ (What?)
-There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. These characteristics vary somewhat, depending on the AWS product and pricing model you choose.In most cases,there is no charge for inbound data transfer or for data transfer between other AWS services within the same AWS Region. There are some exceptions,so be sure to verify data transfer rates before you begin to use the AWS service.Outbound data transfer is aggregated across servicesand then charged at the outbound data transfer rate. This charge appears on the monthly statement as AWS Data Transfer Out. AWS Academy Cloud FoundationsModule 2: Cloud Economics and Billing© 2022 Amazon Web Services, Inc. or its affiliates. All rights reserved.
+- There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. These characteristics vary somewhat, depending on the AWS product and pricing model you choose.In most cases,there is no charge for inbound data transfer or for data transfer between other AWS services within the same AWS Region. There are some exceptions,so be sure to verify data transfer rates before you begin to use the AWS service.Outbound data transfer is aggregated across servicesand then charged at the outbound data transfer rate. This charge appears on the monthly statement as AWS Data Transfer Out. AWS Academy Cloud FoundationsModule 2: Cloud Economics and Billing© 2022 Amazon Web Services, Inc. or its affiliates. All rights reserved.
 
 ## Use Case
 
