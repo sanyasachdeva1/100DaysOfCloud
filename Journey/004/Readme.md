@@ -1,52 +1,56 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# DBS03-AWS100 - Creating an Amazon RDS DB Instance (MS SQL Server)
 
-# New post title here
+## Cloud Service Provider
 
-## Introduction
+- Amazon Web Services
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
+## Difficulty
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Level 100 (Introductory)
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Project's Author(s)
 
-## Cloud Research
+- [Jagan](https://twitter.com/JAG2wt)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Objectives
 
-## Try yourself
+### You need to complete the following:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+- Setup a database instance on Amazon RDS
+- Create a MS SQL Server database instance on RDS
+- Connect to RDS database instance from your local
 
-![Screenshot](https://via.placeholder.com/500x300)
+## ARCHITECTURE
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80279467/175269443-29c4b7d7-53da-44ef-b9e3-8f76c10ffd1d.png"  ></p>
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+### You need to answer the following:
 
-### Step 3 — Summary of Step
+### What is RDS?
+* Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and     resizable capacity while managing time-consuming database administration tasks, which allows you to focus on your applications and business. Amazon RDS provides you with six familiar database engines to choose from: Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL and MariaDB.
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-## ☁️ Cloud Outcome
+## References
+- [What is RDS?](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+- [Setting Up for Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_SettingUp.html)
+- [Creating an Amazon RDS DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html)
+- [Connecting to a DB Instance Running the Microsoft SQL Server Database Engine](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToMicrosoftSQLServerInstance.html)
+- [Running SQL Server Databases on Amazon RDS for SQL Server - AWS Virtual Workshop](https://youtu.be/twOglkIFbXU)
+- [Amazon RDS Free Tier](https://aws.amazon.com/rds/free/)
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+## Costs
 
-## Next Steps
+- Included in the Free Tier
 
-✍️ Describe what you think you think you want to do next.
 
-## Social Proof
+## Estimated time to complete
+- 45-60 minutes
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+## Tips
+- Having database knowledge is an added advantage
+- 750 hours of Amazon RDS Single-AZ `db.t2.micro` included in free tier
