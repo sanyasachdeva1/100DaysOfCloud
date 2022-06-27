@@ -1,7 +1,7 @@
 # SEC04-AWS100 — Create an IAM user
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/175890661-f87210ba-c6ce-43ec-ab7f-5896e410a7b0.png" height="500" width="700" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/175890661-f87210ba-c6ce-43ec-ab7f-5896e410a7b0.png" height="450" width="600" ></p>
 
 
 ## Introduction
