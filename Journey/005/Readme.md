@@ -4,21 +4,21 @@
 
 ## Introduction
 
-✍️ (Why?) 
+✍️ Why?
 - An AWS Identity and Access Management (IAM) user is an entity that you create in AWS to represent the person or application that uses it to interact with AWS. A user in AWS consists of a name and credentials. An IAM user with administrator permissions is not the same thing as the AWS account root user.
 
 ## Prerequisite
 
-✍️ (What) 
+✍️ What?
 - IAM user limit is 5000 per AWS account.
 - In the AWS Management Console section, under Delegate console access, choose the IAM role name for the existing IAM role that you want to assign users to. If the role has not yet been created, see Creating a new role. On the Selected role page, under Manage users and groups for this role, choose Add.
-- What is IAM user and root user in AWS?
-* There are two different types of users in AWS. You are either the account owner (root user) or you are an AWS Identity and Access Management (IAM) user. The root user is created when the AWS account is created. 
-* IAM users are created by the root user or an IAM administrator for the account.
-* 
+
+### What is IAM user and root user in AWS?
+ 1. There are two different types of users in AWS. You are either the account owner (root user) or you are an AWS Identity and Access Management (IAM) user. The root user is created when the AWS account is created. 
+ 2. IAM users are created by the root user or an IAM administrator for the account.
+
 ## Use Case
 ![aws-iam-sso-5](https://user-images.githubusercontent.com/69337392/175891142-c313ceee-d18b-4247-beaa-55bf46a88cf1.png)
-
 
 ## Cloud Service Provider
 
@@ -79,8 +79,3 @@
 * Use the [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) app for MFA.
 * Do not ever commit, add or push any of your access and secret keys to source control systems like git. You must also never share or make your access keys public in any way shape or form. If you accidentaly have done so, make sure to delete the access and secret keys immediately in your console and generate new ones.
 * By default, IAM users are not allowed access to the Billing console. It has to be enabled seperately by using the root user under "My Account".
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
