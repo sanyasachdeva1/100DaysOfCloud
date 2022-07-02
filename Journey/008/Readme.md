@@ -1,7 +1,7 @@
 # SEC02-AWS100 — Use a managed Config Rule
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993657-adc28b7d-f48a-4525-b8f0-b8a766b9b86f.jpg" height="500" width="600" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993657-adc28b7d-f48a-4525-b8f0-b8a766b9b86f.jpg" height="300" width="800" ></p>
 
 ## Introduction
 
