@@ -45,7 +45,7 @@
 - What is remediation in the context of a config rule?
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="400" width="400" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="400" width="500" ></p>
 
 ## References
 
