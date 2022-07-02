@@ -1,7 +1,7 @@
 # SEC01-AWS200 — Create a new CMK in KMS and encrypt an object
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993446-44d35c72-72b5-49ed-bc21-378728708950.png" height="500" width="600" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993446-44d35c72-72b5-49ed-bc21-378728708950.png" height="400" width="800" ></p>
 
 ## Introduction
 
@@ -11,7 +11,7 @@
 ## Prerequisite
 
 ✍️ What?
--An AWS KMS key is a logical representation of a cryptographic key. A KMS key contains metadata, such as the key ID, key spec, key usage, creation date, description, and key state. Most importantly, it contains a reference to the key material that is used when you run cryptographic operations with the KMS key.
+- An AWS KMS key is a logical representation of a cryptographic key. A KMS key contains metadata, such as the key ID, key spec, key usage, creation date, description, and key state. Most importantly, it contains a reference to the key material that is used when you run cryptographic operations with the KMS key.
 
 - You create KMS keys in AWS KMS. Symmetric KMS keys and the private keys of asymmetric KMS key never leave AWS KMS unencrypted. To use or manage your KMS keys, you must use AWS KMS. For information about creating and managing KMS keys, see Managing keys. For information about using KMS keys, see the AWS Key Management Service API Reference.
 
@@ -34,7 +34,7 @@
 ## Objectives
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993520-440aa364-2fa4-4104-812e-7376fa415084.png" height="500" width="600" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993520-440aa364-2fa4-4104-812e-7376fa415084.png" height="400" width="800" ></p>
 
 ### You need to complete the following:
 
