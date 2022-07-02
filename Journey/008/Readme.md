@@ -12,6 +12,7 @@
 
 ✍️ What?
 - An AWS Config rule represents an AWS Lambda function that you create for a custom rule or a predefined function for an AWS Config managed rule. The function evaluates configuration items to assess whether your AWS resources comply with your desired configurations.
+- AWS Config runs evaluation for the rule at a frequency that you specify, such as every 24 hours. Every 24 hours, the rule is triggered and AWS Config evaluates whether the passwords for your IAM users are compliant against the rule.
 
 ## Cloud Service Provider
 - Amazon Web Services
@@ -28,7 +29,7 @@
 ## Objectives
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="300" width="400" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993678-f14bc679-7865-44c4-a6bc-64e8aefca999.png" height="400" width="700" ></p>
 
 ### You need to complete the following:
 
@@ -44,7 +45,7 @@
 - What is remediation in the context of a config rule?
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993678-f14bc679-7865-44c4-a6bc-64e8aefca999.png" height="400" width="700" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="400" width="400" ></p>
 
 ## References
 
