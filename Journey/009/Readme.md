@@ -1,52 +1,71 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# COM04-AWS200 - Deploy a Docker container image on AWS Fargate
 
-# New post title here
+## Cloud Service Provider
 
-## Introduction
+- Amazon Web Services
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## Difficulty
 
-## Prerequisite
+- Level 200 (Intermediate)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Project's Author(s)
 
-## Use Case
+- [Johan Rin](https://twitter.com/johanrin)
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Architecture
+<p align="center"> <img src="https://user-images.githubusercontent.com/80279467/176993768-5ef28cde-22e3-42aa-9025-1e9ba45ffd40.png"  ></p>
 
-## Cloud Research
+### Prerequisites
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- [Push a Docker image to Amazon ECR repository](./COM04-AWS100.md)
 
-## Try yourself
+### You need to complete the following:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Configure your container with your Docker image
+- Configure your task definition
+- Define your service
+- Configure your cluster
 
-### Step 1 — Summary of Step
+### You need to answer the following:
 
-![Screenshot](https://via.placeholder.com/500x300)
+## - What is a _container_?
+A container is any receptacle or enclosure for holding a product used in storage, packaging, and transportation, including shipping. Things kept inside of a container are protected on several sides by being inside of its structure.
 
-### Step 1 — Summary of Step
+## - What is the difference between Soft memory limit and Hard memory limit for a custom container?
+IIRC the soft limit is how much memory the scheduler reserves on an instance for the task to run, and the hard limit is how much memory a container can use before it is murdered.26
 
-![Screenshot](https://via.placeholder.com/500x300)
+## - What is the name of the default task execution role?
+The task execution role grants the Amazon ECS container and Fargate agents permission to make AWS API calls on your behalf. The task execution IAM role is required depending on the requirements of your task. You can have multiple task execution roles for different purposes and services associated with your account.
 
-### Step 3 — Summary of Step
+## - What does a task size allow?
+In Amazon ECS, there are two resource metrics used for capacity: CPU and memory. CPU is measured in units of 1/1024 of a full vCPU (where 1024 units is equal to 1 whole vCPU). Memory is measured in megabytes. In your task definition, you can declare resource reservations and limits.
 
-![Screenshot](https://via.placeholder.com/500x300)
+## - What is a _service_?
+A service is an " act or use for which a consumer, firm, or government is willing to pay." Examples include work done by barbers, doctors, lawyers, mechanics, banks, insurance companies, and so on. Public services are those that society as a whole pays for.
 
-## ☁️ Cloud Outcome
+## - Which load balancer type Fargate can handle?
+Amazon ECS services hosted on AWS Fargate support the Application Load Balancer and Network Load Balancer load balancer types. Application Load Balancers are used to route HTTP/HTTPS (or layer 7) traffic. Network Load Balancers are used to route TCP or UDP (or layer 4) traffic
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+## - How many security groups are created by default if you use a load balancer?
+Elastic Load Balancing creates only one such security group per AWS account, with a name of the form default_elb_ id (for example, default_elb_fc5fbed3-0405-3b7d-a328-ea290EXAMPLE ). Subsequent load balancers that you create in the default VPC also use this security group
 
-## Next Steps
+## - What is a _cluster_?
+A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.
 
-✍️ Describe what you think you think you want to do next.
+## - What are cluster names limitations?
+I went through the Active Directory naming conventions. It says, for proper name resolution, the recommended limit is 15 characters
 
-## Social Proof
+## References
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+- [Getting started with Amazon ECS using Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html)
+- [Deploy Docker Containers](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/)
+- [How Amazon ECS manages CPU and memory resources](https://aws.amazon.com/blogs/containers/how-amazon-ecs-manages-cpu-and-memory-resources/)
+- [Amazon ECS Task Execution IAM Role](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_execution_IAM_role.html)
 
-[link](link)
+## Costs
+
+- Included in the Free Tier
+
+## Estimated time to complete
+
+- 45 minutes - only if you already have a Docker image
