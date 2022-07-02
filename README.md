@@ -16,7 +16,7 @@
 - [✍️ Instagram](https://www.instagram.com/_just_a_techie_/)
 - [✍️ Twitter](https://twitter.com/Sanya_Sachdeva_)
 
-## Stepping out the door
+## Amazon Web Services (AWS) Cloud
 
 - [✔] ☁️ 1 > [Install & Configure AWS CLI, create a S3 Bucket](Journey/001/Readme.md)
 - [✔] ☁️ 2 > [Launch a Hello World website on the internet](Journey/002/Readme.md)
