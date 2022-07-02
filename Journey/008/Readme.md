@@ -1,15 +1,17 @@
 # SEC02-AWS100 — Use a managed Config Rule
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993657-adc28b7d-f48a-4525-b8f0-b8a766b9b86f.jpg" height="300" width="800" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993657-adc28b7d-f48a-4525-b8f0-b8a766b9b86f.jpg" height="400" width="800" ></p>
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Why?
+- AWS Config currently supports the following managed rules in the analytics; compute; cryptography and PKI; database; machine learning; management and governance; migration and transfer; network and content delivery; security; identity and compliance; and storage categories
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ What?
+- An AWS Config rule represents an AWS Lambda function that you create for a custom rule or a predefined function for an AWS Config managed rule. The function evaluates configuration items to assess whether your AWS resources comply with your desired configurations.
 
 ## Cloud Service Provider
 - Amazon Web Services
@@ -26,7 +28,7 @@
 ## Objectives
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="500" width="600" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993670-faf0bc67-b94f-4488-acd3-6e4e77330d68.png" height="300" width="400" ></p>
 
 ### You need to complete the following:
 
@@ -42,7 +44,7 @@
 - What is remediation in the context of a config rule?
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/69337392/176993678-f14bc679-7865-44c4-a6bc-64e8aefca999.png" height="500" width="600" ></p>
+<img src="https://user-images.githubusercontent.com/69337392/176993678-f14bc679-7865-44c4-a6bc-64e8aefca999.png" height="400" width="700" ></p>
 
 ## References
 
