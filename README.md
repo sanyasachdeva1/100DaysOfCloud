@@ -23,7 +23,7 @@
 - [✔] ☁️ 3 > [Create a Cost Budget](Journey/003/Readme.md)
 - [✔] ☁️ 4 > [Creating an Amazon RDS DB Instance](Journey/004/Readme.md)
 - [✔] ☁️ 5 > [Create an IAM user](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [✔] ☁️ 6 > [Create an S3 Bucket and store an object in it](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
