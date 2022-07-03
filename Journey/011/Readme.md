@@ -1,7 +1,6 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# COM04-AWS400 - Create a cluster of virtual machines using docker swarm
 
-# New post title here
+![EKS_Docker_Hub](https://user-images.githubusercontent.com/69337392/177027792-1868ce70-6920-47fa-82c7-6fd7c49ce44e.jpeg)
 
 ## Introduction
 
@@ -11,42 +10,55 @@
 
 ✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+## Cloud Service Provider
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Amazon Web Services
 
-## Cloud Research
+## Difficulty
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Level 400 (Expert)
 
-## Try yourself
+## Project's Author(s)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+[Karan Gauswami](https://github.com/KaranGauswami)
 
-### Step 1 — Summary of Step
+## Objectives
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+### You need to complete the following:
 
-### Step 3 — Summary of Step
+- Create an EC2 Instance with user data script to install Docker
+- Setup that EC2 Instance as a manager node
+- Create multiple instances (2 to 3) with user data script to create worker nodes and join them with manager node
+- Start any service like nginx to test our Swarm Cluster
+- Scale that service to multiple nodes
+- Delete all the resources you created after completion
 
-![Screenshot](https://via.placeholder.com/500x300)
+### You need to answer the following:
 
-## ☁️ Cloud Outcome
+- How to check status of Docker nodes ?
+- What behaviour is expected if one of the worker or manager nodes went down ?
+- How to get state of all the containers running on different nodes ?
+- How to get token to add more workers and managers ?
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+## References
 
-## Next Steps
+- [Running commands on your Linux instance at launch](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
+- [Install Docker](https://docs.docker.com/engine/install/ubuntu/)
+- [Get Started with Docker Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial)
 
-✍️ Describe what you think you think you want to do next.
+## Costs
 
-## Social Proof
+- Included in the Free Tier
+- \$1-2 per hour running
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+## Estimated time to complete
 
-[link](link)
+- 4-5 hours
+
+## Tips
+
+- Use t2.micro instances for creating nodes to avoid unexpected charges.
+- To add more manager or worker nodes, it is not required to SSH into the new instance. Utilize the "user data" functionality.
+- Only allow incoming SSH traffic in security groups for the instances that require it.
