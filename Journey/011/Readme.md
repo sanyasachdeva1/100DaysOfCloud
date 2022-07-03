@@ -5,11 +5,11 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ A docker swarm is comprised of a group of physical or virtual machines operating in a cluster. When a machine joins the cluster, it becomes a node in that swarm.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Docker Swarm is the Docker-native solution for deploying a cluster of Docker hosts. You can use it to quickly deploy a cluster of Docker hosts running either on your local machine or on supported cloud platforms.
 
 ## Cloud Service Provider
 
@@ -24,8 +24,6 @@
 [Karan Gauswami](https://github.com/KaranGauswami)
 
 ## Objectives
-
-
 
 ### You need to complete the following:
 
