@@ -1,6 +1,7 @@
 # COM04-AWS400 - Create a cluster of virtual machines using docker swarm
 
-![EKS_Docker_Hub](https://user-images.githubusercontent.com/69337392/177027792-1868ce70-6920-47fa-82c7-6fd7c49ce44e.jpeg)
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/69337392/177027792-1868ce70-6920-47fa-82c7-6fd7c49ce44e.jpeg" height="400" width="800" ></p>
 
 ## Introduction
 
